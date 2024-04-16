@@ -70,7 +70,7 @@ export class App extends Component {
 
     return (
       <>
-        <div className='container' style={{ overflow: 'hidden', width: '65vw' }}>
+        <div className='container' style={{ overflow: 'hidden', width: '63vw' }}>
 
           <div className='book' >
             <HTMLFlipBook
